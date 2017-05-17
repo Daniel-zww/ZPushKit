@@ -1,0 +1,6 @@
+framework module ZPushKit {
+  umbrella header "ZPushKit.h"
+
+  export *
+  module * { export * }
+}
