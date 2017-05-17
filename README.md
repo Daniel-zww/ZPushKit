@@ -4,3 +4,4 @@
 [![License](https://img.shields.io/cocoapods/l/ZPushKit.svg?style=flat)](http://cocoapods.org/pods/ZPushKit)
 [![Platform](https://img.shields.io/cocoapods/p/ZPushKit.svg?style=flat)](http://cocoapods.org/pods/ZPushKit)
 
+### 友盟推送1.5.0a
